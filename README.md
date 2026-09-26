@@ -23,16 +23,17 @@ analysis, and practical output measurements.
 
 ## 🧩 Components Used
 ```
-| Component | Specification | Quantity |
-|---|---|---:|
-| Resistor | 22 kΩ | 4 |
-| Capacitor | 100 µF | 2 |
-| MOSFET | IRFZ44N | 2 |
-| Breadboard | — | 1 |
-| Connecting Wires | — | As required |
-| Power Supply | 3.3 V / 5 V | 1 |
-| Speaker | 4 Ω / 30 W | 1 |
-| Audio Jack | — | 1 |
+| Component        | Specification |    Quantity |
+| ---------------- | ------------- | ----------: |
+| Resistor         | 22 kΩ         |           4 |
+| Capacitor        | 100 µF        |           2 |
+| MOSFET           | IRFZ44N       |           2 |
+| Breadboard       | —             |           1 |
+| Connecting Wires | —             | As required |
+| Power Supply     | 3.3 V / 5 V   |           1 |
+| Speaker          | 4 Ω / 30 W    |           1 |
+| Audio Jack       | —             |           1 |
+
 ```
 
 ## ⚙️ Working Principle
